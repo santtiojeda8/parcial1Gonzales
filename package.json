@@ -1,0 +1,30 @@
+{
+  "name": "parcial1gonzales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santtiojeda8/parcial1Gonzales.git"
+  },
+  "keywords": [],
+  "author": "Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santtiojeda8/parcial1Gonzales/issues"
+  },
+  "homepage": "https://github.com/santtiojeda8/parcial1Gonzales#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
